@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ShepherdJerred/usher.svg?branch=master)](https://travis-ci.org/ShepherdJerred/usher)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
