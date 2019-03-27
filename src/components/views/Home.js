@@ -22,6 +22,8 @@ export default function Home () {
             made. <a
               href='https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome'>This</a> Stack
             Exchange question details how.
+    
+            Or do it quickly on macOS with this command: open -a Google\ Chrome --args --disable-web-security --user-data-dir
           </p>
 
           <br />
